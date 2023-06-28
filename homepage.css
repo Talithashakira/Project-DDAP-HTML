@@ -1,0 +1,1810 @@
+.homepage-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.homepage-homepage {
+  width: 100%;
+  height: 5340px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.homepage-background {
+  top: 3642px;
+  left: 0px;
+  width: 1512px;
+  height: 1048px;
+  position: absolute;
+}
+.homepage-terumbukarang2 {
+  top: 3776px;
+  left: 709px;
+  width: 99px;
+  height: 135px;
+  position: absolute;
+}
+.homepage-terumbukarang1 {
+  top: 3730px;
+  left: 128px;
+  width: 155px;
+  height: 154px;
+  position: absolute;
+}
+.homepage-gradient {
+  top: 3959px;
+  left: 0px;
+  width: 1512px;
+  height: 1381px;
+  position: absolute;
+}
+.homepage-ikan-background6 {
+  top: 3651px;
+  left: 846px;
+  width: 110px;
+  height: 73px;
+  position: absolute;
+}
+.homepage-ikan-backgroun5 {
+  top: 3498px;
+  left: 60px;
+  width: 249.35841369628906px;
+  height: 182.979736328125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-ikan53 {
+  top: 139.800048828125px;
+  left: 0px;
+  width: 70px;
+  height: 43px;
+  position: absolute;
+}
+.homepage-ikan52 {
+  top: 40px;
+  left: 26px;
+  width: 91px;
+  height: 70px;
+  position: absolute;
+}
+.homepage-ikan51 {
+  top: 93.298583984375px;
+  left: 129.42489624023438px;
+  width: 120px;
+  height: 57px;
+  position: absolute;
+}
+.homepage-ikan-background4 {
+  top: 2942px;
+  right: 60px;
+  width: 316.8608703613281px;
+  height: 249.02000427246094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-ikan43 {
+  top: 100px;
+  left: 38px;
+  width: 110px;
+  height: 73px;
+  position: absolute;
+}
+.homepage-ikan42 {
+  top: 23.906736373901367px;
+  left: 143.476318359375px;
+  width: 112px;
+  height: 81px;
+  position: absolute;
+}
+.homepage-ikan41 {
+  top: 173.02001953125px;
+  left: 179.8304443359375px;
+  width: 137px;
+  height: 76px;
+  position: absolute;
+}
+.homepage-ikan-background3 {
+  top: 2304px;
+  left: 47px;
+  width: 351.9516906738281px;
+  height: 236px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-ikan33 {
+  top: 55px;
+  right: 40px;
+  width: 110px;
+  height: 73px;
+  position: absolute;
+}
+.homepage-ikan32 {
+  top: 28px;
+  left: 30px;
+  width: 112px;
+  height: 81px;
+  position: absolute;
+}
+.homepage-ikan31 {
+  left: 79px;
+  width: 137px;
+  bottom: 11px;
+  height: 76px;
+  position: absolute;
+}
+.homepage-ikan-background2 {
+  top: 1424px;
+  left: 49px;
+  width: 344px;
+  height: 157px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-ikan22 {
+  left: 51px;
+  width: 110px;
+  bottom: 9px;
+  height: 73px;
+  position: absolute;
+}
+.homepage-ikan21 {
+  top: 30px;
+  left: 187px;
+  width: 112px;
+  height: 81px;
+  position: absolute;
+}
+.homepage-ikan-background1 {
+  top: 1312px;
+  right: 28px;
+  width: 352px;
+  height: 182.979736328125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  flex-direction: row;
+}
+.homepage-ikan13 {
+  right: 41px;
+  width: 70px;
+  bottom: 31px;
+  height: 43px;
+  position: absolute;
+}
+.homepage-ikan12 {
+  top: 21px;
+  left: 137px;
+  width: 91px;
+  height: 70px;
+  position: absolute;
+}
+.homepage-ikan11 {
+  top: 94px;
+  left: 39px;
+  width: 120px;
+  height: 57px;
+  position: absolute;
+}
+.homepage-gelembungbackground {
+  top: 3424px;
+  right: 442px;
+  width: 142px;
+  height: 150px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-ellipse25 {
+  top: 138px;
+  left: 10px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.homepage-ellipse26 {
+  top: 108px;
+  left: 26px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.homepage-ellipse27 {
+  top: 90px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.homepage-ellipse28 {
+  top: 67px;
+  left: 127px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.homepage-ellipse29 {
+  top: 31px;
+  left: 91px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+.homepage-ellipse30 {
+  top: 0px;
+  left: 111px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.homepage-gelembungbackground1 {
+  top: 2959px;
+  left: 520px;
+  width: 81px;
+  height: 123px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-ellipse31 {
+  top: 78px;
+  left: 0px;
+  width: 23px;
+  height: 23px;
+  position: absolute;
+}
+.homepage-ellipse32 {
+  top: 37px;
+  left: 12px;
+  width: 37px;
+  height: 37px;
+  position: absolute;
+}
+.homepage-ellipse33 {
+  top: 16px;
+  left: 60px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.homepage-ellipse34 {
+  top: 107px;
+  left: 44px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.homepage-ellipse35 {
+  top: 0px;
+  left: 4px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.homepage-gelembungbackground2 {
+  top: 1536px;
+  right: 72px;
+  width: 142px;
+  height: 150px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-ellipse36 {
+  top: 138px;
+  left: 10px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.homepage-ellipse37 {
+  top: 108px;
+  left: 26px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.homepage-ellipse38 {
+  top: 90px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.homepage-ellipse39 {
+  top: 67px;
+  left: 127px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.homepage-ellipse40 {
+  top: 31px;
+  left: 91px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+.homepage-ellipse41 {
+  top: 0px;
+  left: 111px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.homepage-gelembungbackground3 {
+  top: 1084px;
+  left: 142px;
+  width: 81px;
+  height: 123px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-ellipse42 {
+  top: 78px;
+  left: 0px;
+  width: 23px;
+  height: 23px;
+  position: absolute;
+}
+.homepage-ellipse43 {
+  top: 37px;
+  left: 12px;
+  width: 37px;
+  height: 37px;
+  position: absolute;
+}
+.homepage-ellipse44 {
+  top: 16px;
+  left: 60px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.homepage-ellipse45 {
+  top: 107px;
+  left: 44px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.homepage-ellipse46 {
+  top: 0px;
+  left: 4px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.homepage-card5 {
+  gap: 61px;
+  top: 3752px;
+  left: 0px;
+  right: 0px;
+  width: 878px;
+  height: 868px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  margin-top: auto;
+  align-items: center;
+  flex-shrink: 0;
+  margin-bottom: auto;
+  flex-direction: column;
+  justify-content: center;
+}
+.homepage-container1 {
+  flex: 0 0 auto;
+  width: 810px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.homepage-tittlecard5 {
+  width: 646px;
+  height: 120px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-text {
+  left: 231px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-text002 {
+  top: 52px;
+  color: rgba(0, 0, 0, 1);
+  width: 640px;
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-container2 {
+  flex: 0 0 auto;
+  width: 810px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.homepage-container3 {
+  flex: 0 0 auto;
+  width: 810px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.homepage-text004 {
+  color: rgba(0, 0, 0, 1);
+  width: 774px;
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 170.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-card-buttons {
+  gap: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.homepage-howrogethere {
+  display: flex;
+  padding: 55px 50px 188px;
+  overflow: hidden;
+  align-items: flex-start;
+  border-radius: 15px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-gradient1);
+  background-image: linear-gradient(0deg, rgba(248, 208, 111, 1) 35%, rgba(255, 236, 191, 1) 100%);
+}
+.homepage-text009 {
+  color: var(--dl-color-default-black1);
+  height: auto;
+  font-size: 30px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-text011 {
+  color: var(--dl-color-default-black1);
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-planyourvisit {
+  display: flex;
+  padding: 55px 50px 158px;
+  overflow: hidden;
+  align-items: flex-start;
+  border-radius: 15px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-gradient1);
+  background-image: linear-gradient(0deg, rgba(248, 208, 111, 1) 35%, rgba(255, 236, 191, 1) 100%);
+}
+.homepage-text013 {
+  color: var(--dl-color-default-black1);
+  height: auto;
+  font-size: 30px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-text015 {
+  color: var(--dl-color-default-black1);
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-card4 {
+  top: 3102px;
+  left: 0px;
+  right: 0px;
+  width: 1000px;
+  height: 498px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  justify-content: center;
+}
+.homepage-imagecard4 {
+  top: 155px;
+  left: 634px;
+  width: 364px;
+  height: 261px;
+  position: absolute;
+  border-radius: 15px;
+}
+.homepage-innertextcard4 {
+  gap: 42px;
+  top: 0px;
+  left: 0px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.homepage-tittlecard4 {
+  width: 657px;
+  height: 113px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-text020 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-text022 {
+  top: 45px;
+  left: 2px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-text024 {
+  color: rgb(0, 0, 0);
+  width: 593px;
+  height: auto;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-animal-showbutton {
+  gap: 10px;
+  top: 355px;
+  left: 250px;
+  display: flex;
+  padding: 9px 56px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  border-radius: 50px;
+  justify-content: center;
+  background-color: var(--dl-color-default-gradient1);
+  background-image: linear-gradient(0deg, rgba(248, 208, 111, 1) 35%, rgba(255, 236, 191, 1) 100%);
+}
+.homepage-text025 {
+  color: var(--dl-color-default-black1);
+  height: auto;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-animal-attractionsbutton {
+  gap: 10px;
+  top: 355px;
+  left: 0px;
+  width: 229px;
+  display: flex;
+  padding: 9px 25px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  border-radius: 50px;
+  justify-content: center;
+  background-color: var(--dl-color-default-gradient1);
+  background-image: linear-gradient(0deg, rgba(248, 208, 111, 1) 35%, rgba(255, 236, 191, 1) 100%);
+}
+.homepage-text027 {
+  color: var(--dl-color-default-black1);
+  height: auto;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-card3 {
+  gap: 42px;
+  top: 2450px;
+  left: 0px;
+  right: 0px;
+  width: 1000px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  flex-direction: column;
+}
+.homepage-title-card3 {
+  width: 683px;
+  height: 113px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-text029 {
+  left: 461px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-text031 {
+  top: 45px;
+  color: rgba(0, 0, 0, 1);
+  width: 683px;
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: SemiBold;
+  text-align: right;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-boxtextcard3 {
+  width: 1000px;
+  height: 344px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-text033 {
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  width: 288px;
+  bottom: 20px;
+  height: 80px;
+  position: absolute;
+  font-size: 25px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-text035 {
+  left: 355px;
+  color: rgb(0, 0, 0);
+  width: 288px;
+  bottom: 20px;
+  height: 80px;
+  position: absolute;
+  font-size: 25px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-text039 {
+  color: rgba(0, 0, 0, 1);
+  right: 0px;
+  width: 288px;
+  bottom: 20px;
+  height: 80px;
+  position: absolute;
+  font-size: 25px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-image3card3 {
+  top: 0px;
+  width: 288px;
+  height: 227px;
+  position: absolute;
+  border-radius: 15px;
+}
+.homepage-image2card3 {
+  left: 355px;
+  width: 288px;
+  height: 227px;
+  position: absolute;
+  border-radius: 15px;
+}
+.homepage-image1card3 {
+  top: 0px;
+  right: 0px;
+  width: 288px;
+  height: 227px;
+  position: absolute;
+  border-radius: 15px;
+}
+.homepage-card2 {
+  gap: 25px;
+  top: 1605px;
+  left: 0px;
+  right: 0px;
+  width: 1000px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.homepage-tittlecard2 {
+  width: 518px;
+  height: 113px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-text041 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-text043 {
+  top: 45px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-boxtextcard2 {
+  width: 1000px;
+  height: 534px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 1;
+  border-radius: 30px;
+  flex-direction: column;
+  justify-content: center;
+  background-image: linear-gradient(180deg, rgba(86, 122, 217, 1) 0%, rgba(86, 122, 217, 0.7400000095367432) 100%);
+}
+.homepage-text045 {
+  top: 57px;
+  left: 67px;
+  color: rgba(233, 238, 239, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-text047 {
+  top: 102px;
+  left: 67px;
+  color: rgba(233, 238, 239, 1);
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-imagecard2 {
+  top: 83px;
+  right: 60px;
+  width: 375px;
+  height: 375px;
+  position: absolute;
+}
+.homepage-text049 {
+  top: 183px;
+  left: 67px;
+  color: rgba(233, 238, 239, 1);
+  width: 484px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 145.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-card1 {
+  gap: 57px;
+  top: 958px;
+  left: 0px;
+  right: 0px;
+  width: 1000px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.homepage-imagecard1 {
+  width: 457px;
+  height: 457px;
+}
+.homepage-innertextcard1 {
+  width: 598px;
+  height: 329.5px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-tittlecard1 {
+  top: 0px;
+  left: 0px;
+  width: 598px;
+  height: 101.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-text051 {
+  color: rgba(0, 0, 0, 1);
+  width: 480px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-text053 {
+  top: 33.5px;
+  color: rgb(34, 34, 34);
+  width: 480px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-text054 {
+  top: 128.5px;
+  color: rgba(34, 34, 34, 1);
+  width: 480px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 145.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-learn-morebutton {
+  gap: 10px;
+  top: 288.5px;
+  left: 0px;
+  display: flex;
+  padding: 9px 25px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  border-radius: 50px;
+  justify-content: center;
+  background-color: var(--dl-color-default-gradient1);
+  background-image: linear-gradient(0deg, rgba(248, 208, 111, 1) 35%, rgba(255, 236, 191, 1) 100%);
+}
+.homepage-text056 {
+  color: var(--dl-color-default-black1);
+  height: auto;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-homepageimage {
+  top: 123px;
+  left: -7px;
+  width: 1526px;
+  height: 737px;
+  position: absolute;
+}
+.homepage-text058 {
+  top: 425px;
+  left: var(--dl-space-space-sixunits);
+  color: rgba(255, 255, 255, 1);
+  width: 567px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-text060 {
+  top: 270px;
+  left: var(--dl-space-space-sixunits);
+  color: rgba(255, 255, 255, 1);
+  width: 892px;
+  height: auto;
+  position: absolute;
+  font-size: 60px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 115.49999713897705%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-book-ticketbutton {
+  top: 578px;
+  left: var(--dl-space-space-sixunits);
+  width: 171px;
+  height: 45px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 50px;
+  background-color: var(--dl-color-default-gradient1);
+  background-image: linear-gradient(0deg, rgba(248, 208, 111, 1) 35%, rgba(255, 236, 191, 1) 100%);
+}
+.homepage-text062 {
+  top: 10px;
+  left: 25px;
+  color: var(--dl-color-default-blue1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-chatwith-usbutton {
+  gap: 10px;
+  top: 740px;
+  right: 85px;
+  width: 189px;
+  display: flex;
+  padding: 18px 34px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 15px;
+  background-color: var(--dl-color-default-gradient1);
+  background-image: linear-gradient(0deg, rgba(248, 208, 111, 1) 35%, rgba(255, 236, 191, 1) 100%);
+}
+.homepage-text064 {
+  color: var(--dl-color-default-black1);
+  width: 121px;
+  height: auto;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-footer {
+  top: 4729px;
+  left: 0px;
+  width: 1512px;
+  height: 611px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.homepage-rectangle35 {
+  top: -3px;
+  left: 0px;
+  width: 1512px;
+  height: 611px;
+  position: absolute;
+}
+.homepage-ellipse20 {
+  top: 136px;
+  left: 207px;
+  width: 138px;
+  height: 138px;
+  position: absolute;
+}
+.homepage-text066 {
+  top: 290px;
+  left: 214px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-footer-contact-us {
+  gap: 17px;
+  top: 144px;
+  left: 1067px;
+  width: 294px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.homepage-text068 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-text070 {
+  color: rgba(255, 255, 255, 1);
+  width: 294px;
+  height: auto;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-footer-social-media {
+  top: 332px;
+  left: 196px;
+  width: 160px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-frame {
+  top: 4px;
+  left: 0px;
+  width: 37px;
+  height: 37px;
+  position: absolute;
+}
+.homepage-layer1 {
+  top: 0px;
+  left: 116px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.homepage-frame1 {
+  top: 4px;
+  left: 58px;
+  width: 37px;
+  height: 37px;
+  position: absolute;
+}
+.homepage-footer-pages {
+  top: 144px;
+  left: 516px;
+  width: 142px;
+  height: 158px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-text075 {
+  left: 1px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-about-usfooter {
+  top: 40px;
+  left: 0px;
+  width: 140px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.homepage-text077 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-whatsnewfooter {
+  top: 84px;
+  left: 0px;
+  width: 140px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.homepage-text079 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-promotionsfooter {
+  top: 128px;
+  left: 2px;
+  width: 140px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.homepage-text081 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-footer-visit-us {
+  top: 359px;
+  left: 514px;
+  width: 187px;
+  height: 157px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-text083 {
+  left: 3px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-plan-your-visitfooter {
+  top: 127px;
+  left: 0px;
+  width: 185px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.homepage-text085 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-ticketinfofooter {
+  top: 84px;
+  left: 0px;
+  width: 185px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.homepage-text087 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-gettingherefooter {
+  top: 41px;
+  left: 2px;
+  width: 185px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.homepage-text089 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-footer-experiences {
+  top: 144px;
+  left: 762px;
+  width: 260px;
+  height: 243px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-text091 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-animalattractionfooter {
+  top: 41px;
+  left: 0px;
+  width: 260px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.homepage-text093 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-animalshowsfooter {
+  top: 84px;
+  left: 0px;
+  width: 260px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.homepage-text095 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-aquatrekkingfooter {
+  top: 127px;
+  left: 0px;
+  width: 260px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.homepage-text097 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-underwaterfuntasyfooter {
+  top: 170px;
+  left: 0px;
+  width: 260px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.homepage-text099 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-seaexplorerfooter {
+  top: 213px;
+  left: 0px;
+  width: 260px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.homepage-text101 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-header {
+  top: 0px;
+  left: 0px;
+  width: 1526px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 123px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-default-blue1);
+}
+.homepage-infoheader {
+  gap: 61px;
+  top: 27px;
+  right: 200px;
+  width: 586px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.homepage-text103 {
+  color: rgba(233, 238, 239, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-text105 {
+  color: rgba(233, 238, 239, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-text107 {
+  color: rgba(233, 238, 239, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-ticketbutton {
+  gap: 10px;
+  top: 37px;
+  right: var(--dl-space-space-threeunits);
+  width: 156px;
+  display: flex;
+  padding: 10px 30px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-end;
+  border-radius: 50px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-default-gradient1);
+  background-image: linear-gradient(0deg, rgba(248, 208, 111, 1) 35%, rgba(255, 236, 191, 1) 100%);
+}
+.homepage-group42 {
+  width: 96px;
+  height: 26px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-layer11 {
+  top: 0.5px;
+  left: 0px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.homepage-text109 {
+  left: 28px;
+  color: var(--dl-color-default-blue1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-aboutus {
+  gap: 10px;
+  top: 62px;
+  right: 720px;
+  width: 160px;
+  height: 52px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  padding-top: 16px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-bottom: 16px;
+  justify-content: center;
+}
+.homepage-text111 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-experience {
+  gap: 10px;
+  top: 62px;
+  right: 550px;
+  width: 160px;
+  display: flex;
+  padding: 16px 24px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.homepage-text112 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-visit {
+  gap: 10px;
+  top: 62px;
+  right: 380px;
+  width: 159px;
+  display: flex;
+  padding: 16px 58px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.homepage-text113 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-promotions {
+  gap: 10px;
+  top: 62px;
+  right: 208px;
+  width: 159px;
+  display: flex;
+  padding: 16px 22px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.homepage-text115 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-logoheaderoceanarium {
+  top: 47px;
+  left: 71px;
+  width: 124px;
+  height: 26px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.homepage-text117 {
+  color: rgba(233, 238, 239, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
