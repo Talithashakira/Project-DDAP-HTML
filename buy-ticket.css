@@ -1,0 +1,1460 @@
+.buy-ticket-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.buy-ticket-visit {
+  width: 100%;
+  height: 5475px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.buy-ticket-image2 {
+  top: 123px;
+  left: 0px;
+  width: 1513px;
+  height: 737px;
+  position: absolute;
+}
+.buy-ticket-text {
+  top: 270px;
+  left: 200px;
+  color: rgba(255, 255, 255, 1);
+  width: 986px;
+  height: auto;
+  position: absolute;
+  font-size: 60px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 115.49999713897705%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-card1 {
+  gap: 40px;
+  top: 1007px;
+  left: 0px;
+  right: 0px;
+  width: 1000px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.buy-ticket-text05 {
+  color: rgba(0, 0, 0, 1);
+  width: 1000px;
+  height: auto;
+  font-size: 45px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-text07 {
+  color: rgba(0, 0, 0, 1);
+  width: 1000px;
+  height: auto;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-text12 {
+  top: 2153px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  right: 0px;
+  width: 1000px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-card2 {
+  gap: 33px;
+  top: 1352px;
+  left: 0px;
+  right: 0px;
+  width: 1000px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.buy-ticket-card21 {
+  gap: 40px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.buy-ticket-text14 {
+  color: rgba(0, 0, 0, 1);
+  width: 1000px;
+  height: auto;
+  font-size: 45px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-group48 {
+  width: 1000px;
+  height: 113px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.buy-ticket-text16 {
+  color: rgba(0, 0, 0, 1);
+  width: 1000px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-frame7 {
+  top: 60px;
+  left: 0px;
+  width: 800px;
+  height: 53px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(136, 136, 136, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 15px;
+}
+.buy-ticket-group49 {
+  width: 1000px;
+  height: 45px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.buy-ticket-text18 {
+  color: rgba(0, 0, 0, 1);
+  width: 1000px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-frame8 {
+  width: 800px;
+  height: 53px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(136, 136, 136, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 15px;
+}
+.buy-ticket-group50 {
+  width: 1000px;
+  height: 113px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.buy-ticket-text20 {
+  color: rgba(0, 0, 0, 1);
+  width: 1000px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-frame9 {
+  top: 60px;
+  left: 0px;
+  width: 800px;
+  height: 53px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(136, 136, 136, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 15px;
+}
+.buy-ticket-group52 {
+  width: 1000px;
+  height: 127px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.buy-ticket-text22 {
+  color: rgba(0, 0, 0, 1);
+  width: 1000px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-group51 {
+  top: 74px;
+  left: 0px;
+  width: 800px;
+  height: 53px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.buy-ticket-text24 {
+  top: 8px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-frame10 {
+  top: 0px;
+  left: 158px;
+  width: 642px;
+  height: 53px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(136, 136, 136, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 15px;
+}
+.buy-ticket-pricelist3 {
+  top: 2213px;
+  left: 0px;
+  right: 0px;
+  width: 1160px;
+  height: 2311px;
+  margin: auto;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 5px 10px 0px #d4d4d4;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.buy-ticket-vector {
+  top: 576.5px;
+  left: 0px;
+  width: 1160px;
+  height: 1px;
+  position: absolute;
+}
+.buy-ticket-vector01 {
+  top: 75.5px;
+  left: 0px;
+  width: 1160px;
+  height: 1px;
+  position: absolute;
+}
+.buy-ticket-vector02 {
+  top: 1308.5px;
+  left: 0px;
+  width: 1160px;
+  height: 1px;
+  position: absolute;
+}
+.buy-ticket-vector03 {
+  top: 1776.5px;
+  left: 0px;
+  width: 1160px;
+  height: 1px;
+  position: absolute;
+}
+.buy-ticket-vector04 {
+  top: 2310.5px;
+  left: 0px;
+  width: 1160px;
+  height: 1px;
+  position: absolute;
+}
+.buy-ticket-frame3 {
+  gap: 95px;
+  top: 122px;
+  left: 87px;
+  width: 1021px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.buy-ticket-group43 {
+  width: 380px;
+  height: 387.7973327636719px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.buy-ticket-vector05 {
+  top: 0px;
+  left: 0px;
+  width: 380px;
+  height: 41px;
+  position: absolute;
+}
+.buy-ticket-vector06 {
+  top: 74.3193359375px;
+  left: 12.59375px;
+  width: 354px;
+  height: 313px;
+  position: absolute;
+}
+.buy-ticket-group47 {
+  width: 546px;
+  height: 75px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.buy-ticket-frame2 {
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  height: 75px;
+  position: absolute;
+}
+.buy-ticket-group44 {
+  top: 0px;
+  left: 302px;
+  width: 244px;
+  height: 75px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.buy-ticket-frame {
+  top: 2px;
+  left: 0px;
+  width: 61px;
+  height: 61px;
+  position: absolute;
+}
+.buy-ticket-frame01 {
+  top: 0px;
+  left: 169px;
+  width: 75px;
+  height: 75px;
+  position: absolute;
+}
+.buy-ticket-text26 {
+  top: 7px;
+  left: 102px;
+  color: rgba(136, 136, 136, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-frame6 {
+  gap: 20px;
+  top: 1833px;
+  left: 95px;
+  width: 1013px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.buy-ticket-group431 {
+  width: 447px;
+  height: 405.4599609375px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.buy-ticket-vector07 {
+  top: 0px;
+  left: 20.6513671875px;
+  width: 407px;
+  height: 32px;
+  position: absolute;
+}
+.buy-ticket-vector08 {
+  top: 53px;
+  left: 0px;
+  width: 447px;
+  height: 352px;
+  position: absolute;
+}
+.buy-ticket-frame21 {
+  width: 282px;
+  height: 75px;
+}
+.buy-ticket-group441 {
+  width: 244px;
+  height: 75px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.buy-ticket-frame02 {
+  top: 2px;
+  left: 0px;
+  width: 61px;
+  height: 61px;
+  position: absolute;
+}
+.buy-ticket-frame03 {
+  top: 0px;
+  left: 169px;
+  width: 75px;
+  height: 75px;
+  position: absolute;
+}
+.buy-ticket-text27 {
+  top: 7px;
+  left: 102px;
+  color: rgba(136, 136, 136, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-frame4 {
+  gap: 65px;
+  top: 633px;
+  left: 90px;
+  width: 1018px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.buy-ticket-group432 {
+  width: 407px;
+  height: 608.19970703125px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.buy-ticket-vector09 {
+  top: 0px;
+  left: 0px;
+  width: 407px;
+  height: 42px;
+  position: absolute;
+}
+.buy-ticket-vector10 {
+  top: 63.7197265625px;
+  left: 2.79296875px;
+  width: 349px;
+  height: 544px;
+  position: absolute;
+}
+.buy-ticket-group46 {
+  width: 546px;
+  height: 75px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.buy-ticket-frame22 {
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  height: 75px;
+  position: absolute;
+}
+.buy-ticket-group442 {
+  top: 0px;
+  left: 302px;
+  width: 244px;
+  height: 75px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.buy-ticket-frame04 {
+  top: 2px;
+  left: 0px;
+  width: 61px;
+  height: 61px;
+  position: absolute;
+}
+.buy-ticket-frame05 {
+  top: 0px;
+  left: 169px;
+  width: 75px;
+  height: 75px;
+  position: absolute;
+}
+.buy-ticket-text28 {
+  top: 7px;
+  left: 102px;
+  color: rgba(136, 136, 136, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-frame5 {
+  gap: 90px;
+  top: 1365px;
+  left: 92px;
+  width: 1016px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.buy-ticket-group433 {
+  width: 380px;
+  height: 355.19970703125px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.buy-ticket-vector11 {
+  top: 0px;
+  left: 0px;
+  width: 380px;
+  height: 41px;
+  position: absolute;
+}
+.buy-ticket-vector12 {
+  top: 74.259765625px;
+  left: 0.8505859375px;
+  width: 354px;
+  height: 281px;
+  position: absolute;
+}
+.buy-ticket-group45 {
+  width: 546px;
+  height: 75px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.buy-ticket-frame23 {
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  height: 75px;
+  position: absolute;
+}
+.buy-ticket-group443 {
+  top: 0px;
+  left: 302px;
+  width: 244px;
+  height: 75px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.buy-ticket-frame06 {
+  top: 2px;
+  left: 0px;
+  width: 61px;
+  height: 61px;
+  position: absolute;
+}
+.buy-ticket-frame07 {
+  top: 0px;
+  left: 169px;
+  width: 75px;
+  height: 75px;
+  position: absolute;
+}
+.buy-ticket-text29 {
+  top: 7px;
+  left: 102px;
+  color: rgba(136, 136, 136, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-text30 {
+  top: 4563px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  right: 0px;
+  width: 1000px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-text32 {
+  top: 4608px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  right: 0px;
+  width: 1000px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-animalshow {
+  gap: 10px;
+  left: 160px;
+  width: 275px;
+  bottom: 760px;
+  display: flex;
+  padding: 9px 56px;
+  overflow: hidden;
+  position: absolute;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: 50px;
+  justify-content: center;
+  background-color: var(--dl-color-default-gradient1);
+  background-image: linear-gradient(0deg, rgba(248, 208, 111, 1) 35%, rgba(255, 236, 191, 1) 100%);
+}
+.buy-ticket-animalshow:hover {
+  background-image: linear-gradient(0deg, rgb(255, 245, 221) 100.00%,rgb(255, 245, 221) 100.00%);
+}
+.buy-ticket-text34 {
+  color: var(--dl-color-default-black1);
+  height: auto;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-header {
+  top: 0px;
+  left: 0px;
+  width: 1526px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 123px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-default-blue1);
+}
+.buy-ticket-infoheader {
+  gap: 61px;
+  top: 27px;
+  right: 200px;
+  width: 586px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.buy-ticket-text36 {
+  color: rgba(233, 238, 239, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-text38 {
+  color: rgb(233, 238, 239);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-text39 {
+  color: rgba(233, 238, 239, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-aboutus {
+  gap: 10px;
+  top: 62px;
+  right: 720px;
+  width: 160px;
+  height: 52px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  transition: 0.3s;
+  align-items: center;
+  flex-shrink: 0;
+  padding-top: 16px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-bottom: 16px;
+  justify-content: center;
+}
+
+.buy-ticket-text41 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-text41:hover {
+  color: var(--dl-color-default-gradient1);
+}
+
+.buy-ticket-experience {
+  gap: 10px;
+  top: 62px;
+  right: 550px;
+  width: 160px;
+  display: flex;
+  padding: 16px 24px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.buy-ticket-text42 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-text42:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.buy-ticket-visit1 {
+  gap: 10px;
+  top: 62px;
+  right: 380px;
+  width: 159px;
+  display: flex;
+  padding: 16px 58px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.buy-ticket-text43 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-text43:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.buy-ticket-promotions {
+  gap: 10px;
+  top: 62px;
+  right: 208px;
+  width: 159px;
+  display: flex;
+  padding: 16px 22px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.buy-ticket-text45 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-text45:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.buy-ticket-logoheaderoceanarium {
+  top: 47px;
+  left: 71px;
+  width: 124px;
+  height: 26px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.buy-ticket-text47 {
+  color: rgba(233, 238, 239, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-text47:hover {
+  color: var(--dl-color-default-blue2);
+}
+.buy-ticket-footer {
+  left: 0px;
+  width: 1512px;
+  bottom: 0px;
+  height: 611px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.buy-ticket-rectangle35 {
+  top: 0px;
+  left: 0px;
+  width: 1512px;
+  height: 611px;
+  position: absolute;
+}
+.buy-ticket-text49 {
+  top: 290px;
+  left: 214px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-footer-contact-us {
+  gap: 17px;
+  top: 144px;
+  left: 1067px;
+  width: 294px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.buy-ticket-text51 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-text53 {
+  color: rgba(255, 255, 255, 1);
+  width: 294px;
+  height: auto;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-footer-social-media {
+  top: 332px;
+  left: 196px;
+  width: 160px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.buy-ticket-frame08 {
+  top: 4px;
+  left: 0px;
+  width: 37px;
+  height: 37px;
+  position: absolute;
+}
+.buy-ticket-layer1 {
+  top: 0px;
+  left: 116px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.buy-ticket-frame09 {
+  top: 4px;
+  left: 58px;
+  width: 37px;
+  height: 37px;
+  position: absolute;
+}
+.buy-ticket-footer-pages {
+  top: 144px;
+  left: 516px;
+  width: 142px;
+  height: 158px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.buy-ticket-text58 {
+  left: 1px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-about-usfooter {
+  top: 40px;
+  left: 0px;
+  width: 140px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.buy-ticket-text60 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-text60:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.buy-ticket-whatsnewfooter {
+  top: 84px;
+  left: 0px;
+  width: 140px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.buy-ticket-text62 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-text62:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.buy-ticket-promotionsfooter {
+  top: 128px;
+  left: 2px;
+  width: 140px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.buy-ticket-text64 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-text64:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.buy-ticket-footer-visit-us {
+  top: 359px;
+  left: 514px;
+  width: 187px;
+  height: 157px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.buy-ticket-text66 {
+  left: 3px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-plan-your-visitfooter {
+  top: 127px;
+  left: 0px;
+  width: 185px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.buy-ticket-text68 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-text68:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.buy-ticket-ticketinfofooter {
+  top: 84px;
+  left: 0px;
+  width: 185px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.buy-ticket-text70 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-text70:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.buy-ticket-gettingherefooter {
+  top: 41px;
+  left: 2px;
+  width: 185px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.buy-ticket-text72 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-text72:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.buy-ticket-footer-experiences {
+  top: 144px;
+  left: 762px;
+  width: 260px;
+  height: 243px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.buy-ticket-text74 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-animalattractionfooter {
+  top: 41px;
+  left: 0px;
+  width: 260px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.buy-ticket-text76 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-text76:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.buy-ticket-animalshowsfooter {
+  top: 84px;
+  left: 0px;
+  width: 260px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.buy-ticket-text78 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-text78:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.buy-ticket-aquatrekkingfooter {
+  top: 127px;
+  left: 0px;
+  width: 260px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.buy-ticket-text80 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-text80:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.buy-ticket-underwaterfuntasyfooter {
+  top: 170px;
+  left: 0px;
+  width: 260px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.buy-ticket-text82 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-text82:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.buy-ticket-seaexplorerfooter {
+  top: 213px;
+  left: 0px;
+  width: 260px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.buy-ticket-text84 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.buy-ticket-text84:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.buy-ticket-icon {
+  width: 159px;
+  height: 159px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.buy-ticket-coral {
+  right: -169px;
+  width: 110.50764465332031px;
+  bottom: -111px;
+  height: 115.14187622070312px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.buy-ticket-vector13 {
+  top: 0px;
+  right: -5px;
+  width: 111px;
+  height: 115px;
+  position: absolute;
+}

@@ -1,0 +1,1146 @@
+.experiences-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.experiences-experiences {
+  width: 100%;
+  height: 3836px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.experiences-rectangle21 {
+  top: 115px;
+  left: -7px;
+  width: 1526px;
+  height: 745px;
+  position: absolute;
+}
+.experiences-text {
+  top: 270px;
+  left: var(--dl-space-space-sixunits);
+  color: rgba(255, 255, 255, 1);
+  width: 1000px;
+  height: auto;
+  position: absolute;
+  font-size: 60px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 115.49999713897705%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-card1 {
+  gap: 40px;
+  top: 975px;
+  left: 0px;
+  right: 0px;
+  width: 1000px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.experiences-tittlecard1 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.experiences-text02 {
+  color: rgba(0, 0, 0, 1);
+  width: 1000px;
+  height: auto;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text04 {
+  color: rgba(0, 0, 0, 1);
+  width: 1000px;
+  height: auto;
+  font-size: 40px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-tittlecard11 {
+  gap: 25px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.experiences-imagecard1 {
+  width: 585px;
+  height: 359px;
+  border-radius: 10px;
+}
+.experiences-text06 {
+  color: rgba(0, 0, 0, 1);
+  width: 362px;
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-card2 {
+  gap: 70px;
+  top: 1621px;
+  left: 0px;
+  right: 0px;
+  width: 1000px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.experiences-tittlecard2 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.experiences-text08 {
+  color: rgba(0, 0, 0, 1);
+  width: 1000px;
+  height: auto;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text10 {
+  color: rgba(0, 0, 0, 1);
+  width: 1000px;
+  height: auto;
+  font-size: 40px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-info1card2 {
+  gap: 43px;
+  display: flex;
+  align-items: flex-start;
+}
+.experiences-image1card2 {
+  width: 477px;
+  height: 359px;
+  border-radius: 10px;
+}
+.experiences-inner-text1card2 {
+  width: 443px;
+  height: 288px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.experiences-text12 {
+  color: rgba(0, 0, 0, 1);
+  width: 440px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text14 {
+  top: 78px;
+  left: 3px;
+  color: rgba(0, 0, 0, 1);
+  width: 440px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-info2card2 {
+  gap: 46px;
+  display: flex;
+  align-items: center;
+}
+.experiences-inner-text2card2 {
+  width: 440px;
+  height: 288px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.experiences-text19 {
+  color: rgba(0, 0, 0, 1);
+  width: 440px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text21 {
+  top: 78px;
+  color: rgba(0, 0, 0, 1);
+  width: 440px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-image2card2 {
+  width: 477px;
+  height: 359px;
+  border-radius: 10px;
+}
+.experiences-card3 {
+  gap: 55px;
+  top: 2764px;
+  left: 0px;
+  right: 0px;
+  width: 1000px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.experiences-tittlecard3 {
+  gap: 25px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.experiences-text26 {
+  color: rgba(0, 0, 0, 1);
+  width: 1000px;
+  height: auto;
+  font-size: 45px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text28 {
+  color: rgba(0, 0, 0, 1);
+  width: 1000px;
+  height: auto;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-navlink {
+  display: contents;
+}
+.experiences-book-ticketbutton {
+  width: 171px;
+  height: 45px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  transition: 0.3s;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 50px;
+  text-decoration: none;
+  background-color: var(--dl-color-default-gradient1);
+  background-image: linear-gradient(0deg, rgba(248, 208, 111, 1) 35%, rgba(255, 236, 191, 1) 100%);
+}
+.experiences-book-ticketbutton:hover {
+  background-image: linear-gradient(0deg, rgb(255, 245, 221) 100.00%,rgb(255, 245, 221) 100.00%);
+}
+.experiences-text30 {
+  top: 10px;
+  left: 25px;
+  color: var(--dl-color-default-blue1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text32 {
+  top: 371px;
+  left: var(--dl-space-space-sixunits);
+  color: rgba(255, 255, 255, 1);
+  width: 1000px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 115.49999713897705%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-header {
+  top: 0px;
+  left: 0px;
+  width: 1526px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 123px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-default-blue1);
+}
+.experiences-infoheader {
+  gap: 61px;
+  top: 27px;
+  right: 200px;
+  width: 586px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.experiences-text37 {
+  color: rgba(233, 238, 239, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text39 {
+  color: rgb(233, 238, 239);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text40 {
+  color: rgba(233, 238, 239, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-navlink1 {
+  display: contents;
+}
+.experiences-ticketbutton {
+  gap: 10px;
+  top: 37px;
+  right: var(--dl-space-space-threeunits);
+  width: 156px;
+  display: flex;
+  padding: 10px 30px;
+  overflow: hidden;
+  position: absolute;
+  transition: 0.3s;
+  align-items: flex-end;
+  border-radius: 50px;
+  flex-direction: column;
+  justify-content: center;
+  text-decoration: none;
+  background-color: var(--dl-color-default-gradient1);
+  background-image: linear-gradient(0deg, rgba(248, 208, 111, 1) 35%, rgba(255, 236, 191, 1) 100%);
+}
+.experiences-ticketbutton:hover {
+  background-image: linear-gradient(0deg, rgb(255, 245, 221) 100.00%,rgb(255, 245, 221) 100.00%);
+}
+
+.experiences-group42 {
+  width: 96px;
+  height: 26px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.experiences-layer1 {
+  top: 0.5px;
+  left: 0px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.experiences-text42 {
+  left: 28px;
+  color: var(--dl-color-default-blue1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-aboutus {
+  gap: 10px;
+  top: 62px;
+  right: 720px;
+  width: 160px;
+  height: 52px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  transition: 0.3s;
+  align-items: center;
+  flex-shrink: 0;
+  padding-top: 16px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-bottom: 16px;
+  justify-content: center;
+}
+
+.experiences-text44 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text44:hover {
+  color: var(--dl-color-default-gradient1);
+}
+
+.experiences-experience {
+  gap: 10px;
+  top: 62px;
+  right: 550px;
+  width: 160px;
+  display: flex;
+  padding: 16px 24px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.experiences-text45 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text45:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.experiences-visit {
+  gap: 10px;
+  top: 62px;
+  right: 380px;
+  width: 159px;
+  display: flex;
+  padding: 16px 58px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.experiences-text46 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text46:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.experiences-promotions {
+  gap: 10px;
+  top: 62px;
+  right: 208px;
+  width: 159px;
+  display: flex;
+  padding: 16px 22px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.experiences-text48 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text48:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.experiences-logoheaderoceanarium {
+  top: 47px;
+  left: 71px;
+  width: 124px;
+  height: 26px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.experiences-text50 {
+  color: rgba(233, 238, 239, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text50:hover {
+  color: var(--dl-color-default-blue2);
+}
+.experiences-chatwith-usbutton {
+  gap: 10px;
+  top: 740px;
+  right: 85px;
+  width: 189px;
+  display: flex;
+  padding: 18px 34px;
+  overflow: hidden;
+  position: absolute;
+  transition: 0.3s;
+  align-items: flex-start;
+  border-radius: 15px;
+  background-color: var(--dl-color-default-gradient1);
+  background-image: linear-gradient(0deg, rgba(248, 208, 111, 1) 35%, rgba(255, 236, 191, 1) 100%);
+}
+.experiences-chatwith-usbutton:hover {
+  background-image: linear-gradient(0deg, rgb(255, 245, 221) 100.00%,rgb(255, 245, 221) 100.00%);
+}
+.experiences-text52 {
+  color: var(--dl-color-default-black1);
+  width: 121px;
+  height: auto;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-footer {
+  left: 0px;
+  width: 1512px;
+  bottom: 0px;
+  height: 611px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.experiences-rectangle35 {
+  top: 0px;
+  left: 0px;
+  width: 1512px;
+  height: 611px;
+  position: absolute;
+}
+.experiences-text54 {
+  top: 290px;
+  left: 214px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-footer-contact-us {
+  gap: 17px;
+  top: 144px;
+  left: 1067px;
+  width: 294px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.experiences-text56 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text58 {
+  color: rgba(255, 255, 255, 1);
+  width: 294px;
+  height: auto;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-footer-social-media {
+  top: 332px;
+  left: 196px;
+  width: 160px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.experiences-frame {
+  top: 4px;
+  left: 0px;
+  width: 37px;
+  height: 37px;
+  position: absolute;
+}
+.experiences-layer11 {
+  top: 0px;
+  left: 116px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.experiences-frame1 {
+  top: 4px;
+  left: 58px;
+  width: 37px;
+  height: 37px;
+  position: absolute;
+}
+.experiences-footer-pages {
+  top: 144px;
+  left: 516px;
+  width: 142px;
+  height: 158px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.experiences-text63 {
+  left: 1px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-about-usfooter {
+  top: 40px;
+  left: 0px;
+  width: 140px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.experiences-text65 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text65:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.experiences-whatsnewfooter {
+  top: 84px;
+  left: 0px;
+  width: 140px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.experiences-text67 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text67:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.experiences-promotionsfooter {
+  top: 128px;
+  left: 2px;
+  width: 140px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.experiences-text69 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text69:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.experiences-footer-visit-us {
+  top: 359px;
+  left: 514px;
+  width: 187px;
+  height: 157px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.experiences-text71 {
+  left: 3px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-plan-your-visitfooter {
+  top: 127px;
+  left: 0px;
+  width: 185px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.experiences-text73 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text73:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.experiences-ticketinfofooter {
+  top: 84px;
+  left: 0px;
+  width: 185px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.experiences-text75 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text75:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.experiences-gettingherefooter {
+  top: 41px;
+  left: 2px;
+  width: 185px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.experiences-text77 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text77:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.experiences-footer-experiences {
+  top: 144px;
+  left: 762px;
+  width: 260px;
+  height: 243px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.experiences-text79 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-animalattractionfooter {
+  top: 41px;
+  left: 0px;
+  width: 260px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.experiences-text81 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text81:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.experiences-animalshowsfooter {
+  top: 84px;
+  left: 0px;
+  width: 260px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.experiences-text83 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text83:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.experiences-aquatrekkingfooter {
+  top: 127px;
+  left: 0px;
+  width: 260px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.experiences-text85 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text85:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.experiences-underwaterfuntasyfooter {
+  top: 170px;
+  left: 0px;
+  width: 260px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.experiences-text87 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text87:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.experiences-seaexplorerfooter {
+  top: 213px;
+  left: 0px;
+  width: 260px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.experiences-text89 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.experiences-text89:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.experiences-icon {
+  width: 159px;
+  height: 159px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.experiences-coral {
+  right: -169px;
+  width: 110.50764465332031px;
+  bottom: -111px;
+  height: 115.14187622070312px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.experiences-vector {
+  top: 0px;
+  right: -5px;
+  width: 111px;
+  height: 115px;
+  position: absolute;
+}

@@ -1,0 +1,871 @@
+.promotion-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.promotion-promorions {
+  width: 100%;
+  height: 2468px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.promotion-rectangle21 {
+  top: 115px;
+  left: -7px;
+  width: 1526px;
+  height: 745px;
+  position: absolute;
+}
+.promotion-text {
+  top: 270px;
+  left: var(--dl-space-space-sixunits);
+  color: rgba(255, 255, 255, 1);
+  width: 892px;
+  height: auto;
+  position: absolute;
+  font-size: 60px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 115.49999713897705%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-frame {
+  top: 1115px;
+  left: 0px;
+  right: 0px;
+  width: 119px;
+  height: 119px;
+  margin: auto;
+  position: absolute;
+}
+.promotion-text02 {
+  top: 1287px;
+  left: 0px;
+  color: rgba(136, 136, 136, 1);
+  right: 0px;
+  width: 1000px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-header {
+  top: 0px;
+  left: 0px;
+  width: 1526px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 123px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-default-blue1);
+}
+.promotion-infoheader {
+  gap: 61px;
+  top: 27px;
+  right: 200px;
+  width: 586px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.promotion-text04 {
+  color: rgba(233, 238, 239, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-text06 {
+  color: rgb(233, 238, 239);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-text07 {
+  color: rgba(233, 238, 239, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-navlink {
+  display: contents;
+}
+.promotion-ticketbutton {
+  gap: 10px;
+  top: 37px;
+  right: var(--dl-space-space-threeunits);
+  width: 156px;
+  display: flex;
+  padding: 10px 30px;
+  overflow: hidden;
+  position: absolute;
+  transition: 0.3s;
+  align-items: flex-end;
+  border-radius: 50px;
+  flex-direction: column;
+  justify-content: center;
+  text-decoration: none;
+  background-color: var(--dl-color-default-gradient1);
+  background-image: linear-gradient(0deg, rgba(248, 208, 111, 1) 35%, rgba(255, 236, 191, 1) 100%);
+}
+.promotion-ticketbutton:hover {
+  background-image: linear-gradient(0deg, rgb(255, 245, 221) 100.00%,rgb(255, 245, 221) 100.00%);
+}
+
+.promotion-group42 {
+  width: 96px;
+  height: 26px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.promotion-layer1 {
+  top: 0.5px;
+  left: 0px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.promotion-text09 {
+  left: 28px;
+  color: var(--dl-color-default-blue1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-aboutus {
+  gap: 10px;
+  top: 62px;
+  right: 720px;
+  width: 160px;
+  height: 52px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  transition: 0.3s;
+  align-items: center;
+  flex-shrink: 0;
+  padding-top: 16px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-bottom: 16px;
+  justify-content: center;
+}
+
+.promotion-text11 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-text11:hover {
+  color: var(--dl-color-default-gradient1);
+}
+
+.promotion-experience {
+  gap: 10px;
+  top: 62px;
+  right: 550px;
+  width: 160px;
+  display: flex;
+  padding: 16px 24px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.promotion-text12 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-text12:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.promotion-visit {
+  gap: 10px;
+  top: 62px;
+  right: 380px;
+  width: 159px;
+  display: flex;
+  padding: 16px 58px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.promotion-text13 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-text13:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.promotion-promotions {
+  gap: 10px;
+  top: 62px;
+  right: 208px;
+  width: 159px;
+  display: flex;
+  padding: 16px 22px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.promotion-text15 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-text15:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.promotion-logoheaderoceanarium {
+  top: 47px;
+  left: 71px;
+  width: 124px;
+  height: 26px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.promotion-text17 {
+  color: rgba(233, 238, 239, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-text17:hover {
+  color: var(--dl-color-default-blue2);
+}
+.promotion-chatwith-usbutton {
+  gap: 10px;
+  top: 740px;
+  right: 85px;
+  width: 189px;
+  display: flex;
+  padding: 18px 34px;
+  overflow: hidden;
+  position: absolute;
+  transition: 0.3s;
+  align-items: flex-start;
+  border-radius: 15px;
+  background-color: var(--dl-color-default-gradient1);
+  background-image: linear-gradient(0deg, rgba(248, 208, 111, 1) 35%, rgba(255, 236, 191, 1) 100%);
+}
+.promotion-chatwith-usbutton:hover {
+  background-image: linear-gradient(0deg, rgb(255, 245, 221) 100.00%,rgb(255, 245, 221) 100.00%);
+}
+.promotion-text19 {
+  color: var(--dl-color-default-black1);
+  width: 121px;
+  height: auto;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-footer {
+  left: 0px;
+  width: 1512px;
+  bottom: 0px;
+  height: 611px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.promotion-rectangle35 {
+  top: 0px;
+  left: 0px;
+  width: 1512px;
+  height: 611px;
+  position: absolute;
+}
+.promotion-text21 {
+  top: 290px;
+  left: 214px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-footer-contact-us {
+  gap: 17px;
+  top: 144px;
+  left: 1067px;
+  width: 294px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.promotion-text23 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-text25 {
+  color: rgba(255, 255, 255, 1);
+  width: 294px;
+  height: auto;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-footer-social-media {
+  top: 332px;
+  left: 196px;
+  width: 160px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.promotion-frame1 {
+  top: 4px;
+  left: 0px;
+  width: 37px;
+  height: 37px;
+  position: absolute;
+}
+.promotion-layer11 {
+  top: 0px;
+  left: 116px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.promotion-frame2 {
+  top: 4px;
+  left: 58px;
+  width: 37px;
+  height: 37px;
+  position: absolute;
+}
+.promotion-footer-pages {
+  top: 144px;
+  left: 516px;
+  width: 142px;
+  height: 158px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.promotion-text30 {
+  left: 1px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-about-usfooter {
+  top: 40px;
+  left: 0px;
+  width: 140px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.promotion-text32 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-text32:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.promotion-whatsnewfooter {
+  top: 84px;
+  left: 0px;
+  width: 140px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.promotion-text34 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-text34:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.promotion-promotionsfooter {
+  top: 128px;
+  left: 2px;
+  width: 140px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.promotion-text36 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-text36:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.promotion-footer-visit-us {
+  top: 359px;
+  left: 514px;
+  width: 187px;
+  height: 157px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.promotion-text38 {
+  left: 3px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-plan-your-visitfooter {
+  top: 127px;
+  left: 0px;
+  width: 185px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.promotion-text40 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-text40:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.promotion-ticketinfofooter {
+  top: 84px;
+  left: 0px;
+  width: 185px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.promotion-text42 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-text42:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.promotion-gettingherefooter {
+  top: 41px;
+  left: 2px;
+  width: 185px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.promotion-text44 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-text44:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.promotion-footer-experiences {
+  top: 144px;
+  left: 762px;
+  width: 260px;
+  height: 243px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.promotion-text46 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-animalattractionfooter {
+  top: 41px;
+  left: 0px;
+  width: 260px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.promotion-text48 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-text48:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.promotion-animalshowsfooter {
+  top: 84px;
+  left: 0px;
+  width: 260px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.promotion-text50 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-text50:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.promotion-aquatrekkingfooter {
+  top: 127px;
+  left: 0px;
+  width: 260px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.promotion-text52 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-text52:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.promotion-underwaterfuntasyfooter {
+  top: 170px;
+  left: 0px;
+  width: 260px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.promotion-text54 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-text54:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.promotion-seaexplorerfooter {
+  top: 213px;
+  left: 0px;
+  width: 260px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.promotion-text56 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.promotion-text56:hover {
+  color: var(--dl-color-default-gradient1);
+}
+.promotion-icon {
+  width: 159px;
+  height: 159px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.promotion-coral {
+  right: -169px;
+  width: 110.50764465332031px;
+  bottom: -111px;
+  height: 115.14187622070312px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.promotion-vector {
+  top: 0px;
+  right: -5px;
+  width: 111px;
+  height: 115px;
+  position: absolute;
+}
